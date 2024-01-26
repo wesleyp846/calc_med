@@ -1,3 +1,5 @@
+# Projeto em pausa
+
 # Calculadora Medidas
 
 ## No git bash na pasta do projeto
